@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-passStr/static/css/main.164a7f64.css",
+    "main.js": "/test-passStr/static/js/main.5a089ccd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/test-passStr/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/test-passStr/index.html",
+    "main.164a7f64.css.map": "/test-passStr/static/css/main.164a7f64.css.map",
+    "main.5a089ccd.js.map": "/test-passStr/static/js/main.5a089ccd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/test-passStr/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.164a7f64.css",
+    "static/js/main.5a089ccd.js"
+  ]
+}
